@@ -51,7 +51,9 @@ positional arguments:
 
 options:
   -h, --help            show this help message and exit
+  
   -p PORT, --port PORT  specifies the TCP port that the server is listening on (default=27993)
+  
   -s                    if given, the client will use an TLS encrypted socket connection
 
 
