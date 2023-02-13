@@ -45,11 +45,11 @@ flag) or the dictionary runs out of potential guesses.
 
 client [-h] [-p PORT] [-s] hostname Northeastern-username
 
-positional arguments:
+Positional Arguments:
 - hostname : specifies the name of the server (DNS name or IP address in dotted notation)
 - Northeastern-username
 
-options:
+Options:
 - -h, --help : show this help message and exit
 - -p PORT, --port PORT : specifies the TCP port that the server is listening on (default=27993)
 - -s : if given, the client will use an TLS encrypted socket connection
